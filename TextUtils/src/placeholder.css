@@ -1,0 +1,10 @@
+/* Define the placeholder color for light mode */
+.light-placeholder::placeholder {
+    color: black;
+  }
+  
+  /* Define the placeholder color for dark mode */
+  .dark-placeholder::placeholder {
+    color: white;
+  }
+  

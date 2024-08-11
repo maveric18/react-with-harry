@@ -49,12 +49,12 @@ function App() {
               element={
                 <TextForm
                   showAlert={showAlert}
-                  heading="Enter the tex to analyze below"
+                  heading="Try TextUtils - Word Counter, Character Counter"
                   mode={mode}
                 />
               }
             ></Route>
-            <Route exact path="/about" element={<About />}></Route>
+            <Route exact path="/about" element={<About mode={mode}/>}></Route>
           </Routes>
         </div>
       </Router>
