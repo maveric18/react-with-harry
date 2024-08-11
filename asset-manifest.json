@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-with-harry/static/css/main.dc4d6ff2.css",
-    "main.js": "/react-with-harry/static/js/main.0f288310.js",
+    "main.css": "/react-with-harry/static/css/main.e180b7c8.css",
+    "main.js": "/react-with-harry/static/js/main.0e5e7f37.js",
     "static/js/453.ed3a59d3.chunk.js": "/react-with-harry/static/js/453.ed3a59d3.chunk.js",
     "index.html": "/react-with-harry/index.html",
-    "main.dc4d6ff2.css.map": "/react-with-harry/static/css/main.dc4d6ff2.css.map",
-    "main.0f288310.js.map": "/react-with-harry/static/js/main.0f288310.js.map",
+    "main.e180b7c8.css.map": "/react-with-harry/static/css/main.e180b7c8.css.map",
+    "main.0e5e7f37.js.map": "/react-with-harry/static/js/main.0e5e7f37.js.map",
     "453.ed3a59d3.chunk.js.map": "/react-with-harry/static/js/453.ed3a59d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc4d6ff2.css",
-    "static/js/main.0f288310.js"
+    "static/css/main.e180b7c8.css",
+    "static/js/main.0e5e7f37.js"
   ]
 }
