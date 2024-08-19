@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Brazil 0-1 United States: Emma Hayes leads USA to Olympic gold",
+            "description": "Emma Hayes leads USA to women's football gold in her first major tournament with the team.",
+            "url": "http://www.bbc.co.uk/sport/olympics/live/cvg5l5306z6t",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+            "publishedAt": "2024-08-10T17:37:16.2924424Z",
+            "content": "As well as offering the shot at an historic international title, Brazil's run to the final also provided an opportunity for the iconic Marta to bow out on the biggest stage.\r\nOne of the greatest play… [+821 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "ESPN Fantasy",
+            "title": "2024 Fantasy football cheat sheet: Draft tips, busts and more - ESPN",
+            "description": "Get all of our best fantasy intel on a printable cheat sheet to bring to your fantasy football drafts.",
+            "url": "https://www.espn.com/fantasy/football/insider/story/_/id/40794703/2024-fantasy-football-cheat-sheet-draft-tips-sleepers-busts-more",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0809%2Fr1371135_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-08-10T14:00:00Z",
+            "content": "Aug 10, 2024, 10:00 AM ET\r\nIt's time to start your fantasy football season\r\nCreate a league and customize league size, scoring and rules to play in the league you want to play in.\r\nCreate a league to… [+1277 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Man Utd vs Man City LIVE: Community Shield football kick-off time, line-ups, prediction & updates from Wembley",
+            "description": "Man Utd vs Man City LIVE: Community Shield football kick-off time, prediction, team news & updates from Wembley",
+            "url": "http://www.bbc.co.uk/sport/football/live/c9wjkjyqpg4t",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+            "publishedAt": "2024-08-10T13:22:23.8885188Z",
+            "content": "Manchester City v Manchester United (15:00 BST)\r\nMichael EmonsBBC Sport at Wembley\r\nImage caption, City fan Tyresse Lemon and United supporter Jaydyn Lemon\r\nBrothers Tyresse and Jaydyn Lemon will be … [+1048 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "National Football League \n Five potential Cowboys picks to track at the NFL Draft Combine\n1 hour ago",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.foxsports.com/stories/nfl/five-potential-cowboys-picks-to-track-at-the-nfl-draft-combine",
+            "urlToImage": null,
+            "publishedAt": "2024-02-29T18:37:22.5746516Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "Unique Stats from the 2023 College Football Regular Season",
+            "description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
+            "url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
+            "publishedAt": "2023-12-12T12:00:00Z",
+            "content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
